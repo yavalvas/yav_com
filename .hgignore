@@ -1,0 +1,4 @@
+^.idea/
+\.pyc$
+celerybeat-schedule
+output.json

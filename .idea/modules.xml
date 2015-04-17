@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/7282822/.idea/7282822.iml" filepath="$USER_HOME$/PycharmProjects/7282822/.idea/7282822.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../calc_linze/.idea/calc_linze.iml" filepath="$PROJECT_DIR$/../calc_linze/.idea/calc_linze.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/graphical_language/.idea/graphical_language.iml" filepath="$USER_HOME$/PycharmProjects/graphical_language/.idea/graphical_language.iml" />
+      <module fileurl="file://$USER_HOME$/src/ibd3-server-web/.idea/ibd3-server-web.iml" filepath="$USER_HOME$/src/ibd3-server-web/.idea/ibd3-server-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/marvel.iml" filepath="$PROJECT_DIR$/.idea/marvel.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/stackoverflow/.idea/stackoverflow.iml" filepath="$USER_HOME$/PycharmProjects/stackoverflow/.idea/stackoverflow.iml" />
+      <module fileurl="file://$USER_HOME$/src/zayavki/.idea/zayavki.iml" filepath="$USER_HOME$/src/zayavki/.idea/zayavki.iml" />
+    </modules>
+  </component>
+</project>
+
